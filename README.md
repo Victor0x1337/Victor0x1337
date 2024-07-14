@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif)]
+![MasterHead](https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif)
 <h1 align="center">Hi 👋, I'm Victor Pascua</h1>
 <h3 align="center">Hey there! 👋 I'm a Python developer focused on building efficient solutions for various tasks. 🐍 Currently, I'm expanding my skills by learning C++, diving into its nuances of memory management and performance optimization. Excited to apply my Python background to mastering C++!</h3>
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif")
