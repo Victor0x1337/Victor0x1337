@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Pascua</h1>
-<h3 align="center">Hey there! 👋 I'm a Python developer focused on building efficient solutions for various tasks. 🐍 Currently, I'm expanding my skills by learning C++, diving into its nuances of memory management and performance optimization. Excited to apply my Python background to mastering C++!</h3>
+<h3 align="center">I'm a Python developer focused on building efficient solutions for various tasks. 🐍 Currently, I'm expanding my skills by learning C++, diving into its nuances of memory management and performance optimization. Excited to apply my Python background to mastering C++!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor0x1337&label=Profile%20views&color=0e75b6&style=flat" alt="victor0x1337" /> </p>
 
